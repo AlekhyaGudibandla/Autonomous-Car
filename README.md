@@ -38,7 +38,7 @@ To ensure generalization and avoid overfitting:
 - **Flipping**: Left/right symmetry.  
 - **Zooming**: Varying road views.  
 
-<p align="center"> <img src="[https://via.placeholder.com/600x300?text=Augmented+Data](https://github.com/AlekhyaGudibandla/Autonomous-Car/blob/main/media/augmented.png)" alt="Augmented Data Example" /> </p>  
+![augmented example image](https://github.com/AlekhyaGudibandla/Autonomous-Car/blob/main/media/augmented.png?raw=true)
 
 ### 3. CNN Model  
 The model architecture is inspired by **NVIDIA's CNN** design for autonomous vehicles.  
@@ -58,10 +58,12 @@ The model architecture is inspired by **NVIDIA's CNN** design for autonomous veh
 - **Testing Performance**: Car navigated smoothly on multiple tracks.  
 
 ### Key Metrics:  
-- **Loss Graph**: Continuous improvement across epochs.  
+- **Loss Graph**: Continuous improvement across epochs.
+- ![graph](https://github.com/AlekhyaGudibandla/Autonomous-Car/blob/main/media/graph.png?raw=true)
 - **Model Output**: Steady steering and recovery from deviations.  
 
-🎥 **Demo Video**: [Watch the Model in Action](#) (https://github.com/AlekhyaGudibandla/Autonomous-Car/blob/main/media/demo_video.mp4).  
+![model_image](https://github.com/[AlekhyaGudibandla]/[Autonomous-Car]/blob/[media]/demo_image.png?raw=true)
+
 
 ---
 
