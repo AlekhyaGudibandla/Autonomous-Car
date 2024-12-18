@@ -62,7 +62,7 @@ The model architecture is inspired by **NVIDIA's CNN** design for autonomous veh
 - ![graph](https://github.com/AlekhyaGudibandla/Autonomous-Car/blob/main/media/graph.png?raw=true)
 - **Model Output**: Steady steering and recovery from deviations.  
 
-![model_image](https://github.com/[AlekhyaGudibandla]/[Autonomous-Car]/blob/[media]/demo_image.png?raw=true)
+![model_image](https://github.com/AlekhyaGudibandla/Autonomous-Car/blob/main/media/demo_image.png?raw=true)
 
 
 ---
